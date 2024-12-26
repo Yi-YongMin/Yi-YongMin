@@ -2,7 +2,7 @@
 
 ###  🐲About Me
 - 🎓INHA UNIV Information and Communication Engineering (2020.03 ~ 2025.02)
-- 💻Engineer Information Processing   
+- 💻Information Processing Engineer  
 
 ### 🛠 Tech Skills
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></a>
