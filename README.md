@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=000000&text=Yi-YongMin&fontColor=fff800&fontSize=90&stroke=757575)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lym8467)](https://solved.ac/lym8467/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYi-YongMin&count_bg=%23E1D86D&title_bg=%23070707&icon=ubuntu.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 ###  🐲About Me   
